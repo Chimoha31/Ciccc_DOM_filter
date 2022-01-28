@@ -10,6 +10,6 @@ async function getData(){
     result.innerHTML = ''
 
 }
-
+console.log('test');
 
 getData()
